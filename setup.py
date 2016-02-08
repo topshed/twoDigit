@@ -8,5 +8,4 @@ setup(name='twoDigit',
       author_email='top_shed@yahoo.com',
       url='https://github.com/topshed/twoDigit',
       download_url='https://github.com/topshed/twoDigit/tarball/0.1',
-      packages=['distutils', 'distutils.command'],
      )
