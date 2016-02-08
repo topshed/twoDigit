@@ -6,7 +6,7 @@ setup(name='twoDigit',
       description='Produces 2 digit output for 8x8 LED matrices like Raspberry Pi SenseHAT',
       author='Richard Hayler',
       author_email='top_shed@yahoo.com',
-      url='https://www.python.org/sigs/distutils-sig/',
+      url='https://github.com/topshed/twoDigit',
       download_url='https://github.com/topshed/twoDigit/tarball/0.1',
       packages=['distutils', 'distutils.command'],
      )
