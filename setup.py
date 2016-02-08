@@ -7,6 +7,7 @@ setup(name='twoDigit',
       author='Richard Hayler'
       author_email='top_shed@yahoo.com'
       url='https://www.python.org/sigs/distutils-sig/',
+      download_url='https://github.com/topshed/twoDigit/tarball/0.1',
       packages=['distutils', 'distutils.command'],
       download_url = '' 
      )
