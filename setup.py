@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(name='twoDigit',
       packages = ['twoDigit'],
-      version='1.0',
+      version='1.1',
       description='Produces 2 digit output for 8x8 LED matrices like Raspberry Pi SenseHAT',
       author='Richard Hayler',
       author_email='top_shed@yahoo.com',
