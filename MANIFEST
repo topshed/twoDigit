@@ -2,4 +2,4 @@
 setup.cfg
 setup.py
 twoDigit/__init__.py
-twoDigit/twoDigit.py
+twoDigit/two_Digit.py
