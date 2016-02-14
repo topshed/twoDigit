@@ -1,2 +1,2 @@
-__version__ = '1.2'
-from twoDigit import twoDigit
+__version__ = '1.3'
+from twoDigit import numToMatrix
